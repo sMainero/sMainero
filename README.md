@@ -1,16 +1,24 @@
-## Hi there 👋
+# Sebastian Mainero
 
-<!--
-**sMainero/sMainero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer from Colombia.
 
-Here are some ideas to get you started:
+* 🔭 Working on local LLM experiments and Three.js projects
+* 🌱 Learning Three.js, Blender, and 3D workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like building things fast, solving weird problems, and working across the whole stack. Most of my experience has been in startups, realtime systems, internal tools, and product development.
+
+Worked on:
+
+* POS systems
+* military tracking platforms
+* insurance products
+* AI-powered tools
+* booking and rental apps
+
+Currently interested in:
+
+* scalable systems
+* frontend architecture
+* AI-assisted development
+* graphics / 3D
+* relocation to Japan 🇯🇵
