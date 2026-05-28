@@ -22,8 +22,10 @@ Currently interested in:
 * AI-assisted development
 * graphics / 3D
 * relocation to Japan 🇯🇵
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,nestjs,svelte,angular,postgres,mongodb,docker,aws,gcp,threejs,blender,linux,jest,firebase&perline=10)](https://skillicons.dev)
-
-![](https://komarev.com/ghpvc/?username=smainero&color=blueviolet)
+  
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,nestjs,svelte,angular,postgres,mongodb,docker,aws,gcp,threejs,blender,linux,jest,firebase&perline=10"
+    height="60"
+  />
+</p>
